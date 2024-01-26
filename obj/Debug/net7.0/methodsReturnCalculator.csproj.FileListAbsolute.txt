@@ -1,0 +1,14 @@
+D:\C# Projects\methodsReturnCalculator\bin\Debug\net7.0\methodsReturnCalculator.exe
+D:\C# Projects\methodsReturnCalculator\bin\Debug\net7.0\methodsReturnCalculator.deps.json
+D:\C# Projects\methodsReturnCalculator\bin\Debug\net7.0\methodsReturnCalculator.runtimeconfig.json
+D:\C# Projects\methodsReturnCalculator\bin\Debug\net7.0\methodsReturnCalculator.dll
+D:\C# Projects\methodsReturnCalculator\bin\Debug\net7.0\methodsReturnCalculator.pdb
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.AssemblyInfoInputs.cache
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.AssemblyInfo.cs
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.csproj.CoreCompileInputs.cache
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.dll
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\refint\methodsReturnCalculator.dll
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.pdb
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\methodsReturnCalculator.genruntimeconfig.cache
+D:\C# Projects\methodsReturnCalculator\obj\Debug\net7.0\ref\methodsReturnCalculator.dll

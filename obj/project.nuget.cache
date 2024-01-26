@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhBZx/X3BluGbRwWkjJjO27v1irJa4q1UrS9U5cYZGjKCdym6I061ocMiHhIaAPZZqmfJ5F1U0VHQ5Vb0MSY7A==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\methodsReturnCalculator\\methodsReturnCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\BURCE RESIDENCE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
